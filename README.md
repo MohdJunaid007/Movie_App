@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Git Repository:**
    ```bash
-   git clone https://github.com/your-username/popcorn-play.git
+   git clone https://github.com/MohdJunaid007/Movie_App.git
    cd popcorn-play
 2. npm install
 3. npm start
